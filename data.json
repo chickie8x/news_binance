@@ -1,4 +1,446 @@
 {
-    "savedId": [],
-    "news": []
+    "savedId": [
+        7254890,
+        7254747,
+        7254738,
+        7254277,
+        7254276,
+        7253611,
+        7253235,
+        7253245,
+        7253224,
+        7253216,
+        7251906,
+        7251924,
+        7251921,
+        7251605,
+        7251601,
+        7250470,
+        7250097,
+        7249509,
+        7249507,
+        7249523,
+        7249522,
+        7248642,
+        7248062,
+        7248063,
+        7247874,
+        7247889,
+        7247245,
+        7247176,
+        7247172,
+        7246547,
+        7246546,
+        7246247,
+        7246246,
+        7246243,
+        7246238,
+        7246114,
+        7244501,
+        7244498,
+        7243135,
+        7242579,
+        7242576,
+        7242567,
+        7242556,
+        7240450,
+        7240505,
+        7240508,
+        7239985,
+        7239967,
+        7239965,
+        7239050,
+        7239068,
+        7239059,
+        7238626,
+        7238374,
+        7238373
+    ],
+    "news": [
+        {
+            "id": 7254890,
+            "title": "Tin nhanh Bản tin cập nhật thị trường của Binance (29/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng $1,03 nghìn tỷ đô, tăng 2,33% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.558 đến $21.091 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.847, tăng 1.09%.Các đồng có mức tăng mạnh trên thị trường gồm DOGE, MASK, và KLAY, tăng lần lượt 51%, 50%, và 25%.Chuyển động thị trường:LUNA: $2.4107 (-1.12%)ETH: $1624.36 (+4.20%)BNB: $304.4 (+1.74%)XRP: $0.4718 (+0.25%)DOGE: $0.12797 (+50.85%)ADA: $0.4188 (+3.69%)SOL: $32.95 (+2.81%)MATIC: $0.9373 (-0.30%)DOT: $6.68 (+2.30%)SHIB: $0.00001298 (+11.23%)Top tăng giá trên Binance:DOGE/BUSD (+51%)MASK/BUSD (+50%)KLAY/BUSD (+25%)   ",
+            "date_created": "2022-10-30 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7254890"
+        },
+        {
+            "id": 7254747,
+            "title": "Tin nhanh Bản tin cập nhật thị trường của Binance (29/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng $1,03 nghìn tỷ đô, tăng 3,31% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.452 đến $21.091 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.921, tăng 2.13%.Các đồng có mức tăng mạnh trên thị trường gồm DOGE, MASK, và SHIB, tăng lần lượt 54%, 37%, và 30%.Chuyển động thị trường:LUNA: $2.4295 (+0.45%)ETH: $1631.86 (+6.16%)BNB: $303.7 (+2.26%)XRP: $0.4711 (+1.49%)DOGE: $0.13146 (+54.35%)ADA: $0.4084 (+2.90%)SOL: $33.2 (+6.79%)MATIC: $0.9379 (+0.95%)SHIB: $0.00001437 (+30.05%)DOT: $6.54 (+1.40%)Top tăng giá trên Binance:DOGE/BUSD (+54%)MASK/BUSD (+37%)SHIB/BUSD (+30%)   ",
+            "date_created": "2022-10-29 23:00:59",
+            "url": "https://www.binance.com/vi/news/flash/7254747"
+        },
+        {
+            "id": 7254738,
+            "title": "Bản tin cập nhật thị trường của Binance (29/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng $1,03 nghìn tỷ đô, tăng 4,62% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.000 đến $20.989 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.931, tăng 3.70%.Các đồng có mức tăng mạnh trên thị trường gồm MASK, OSMO, và DOGE, tăng lần lượt 77%, 59%, và 29%.Các tin mới trong ngày:Tether’s Paolo Ardoino Says Bitcoin Adoption in Lugano, Switzerland, Going Well Ripple’s Q3 Report Released, XRP Holdings Drop Below 50% Chuyển động thị trường:LUNA: $2.5001 (+4.46%)ETH: $1629.96 (+8.43%)BNB: $306.6 (+6.98%)XRP: $0.4785 (+3.82%)ADA: $0.4114 (+7.05%)DOGE: $0.10311 (+28.87%)SOL: $33.67 (+10.47%)MATIC: $0.9528 (+4.82%)DOT: $6.68 (+4.37%)SHIB: $0.00001241 (+17.19%)Top tăng giá trên Binance:MASK/BUSD (+77%)OSMO/BUSD (+59%)DOGE/BUSD (+29%)  ",
+            "date_created": "2022-10-29 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7254738"
+        },
+        {
+            "id": 7254277,
+            "title": "Bản tin cập nhật thị trường của Binance (28/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng $1,00 nghìn tỷ đô, tăng 0,14% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.000 đến $20.756 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.628, giảm -0.03%.Các đồng có mức tăng mạnh trên thị trường gồm OSMO, MASK, và VIDT, tăng lần lượt 39%, 23%, và 12%.Các tin mới trong ngày:Tether’s Paolo Ardoino Says Bitcoin Adoption in Lugano, Switzerland, Going Well Ripple’s Q3 Report Released, XRP Holdings Drop Below 50% The Adoption Continues Premier League Could Sign A Deal With Sorare For Digital Collectible NFTs Binance’s CZ Confirms Participating as Equity Investor in Musk’s Twitter Takeover The Gucci Vault Is Now Open On The Sandbox Elon Musk Becomes Owner Of Twitter, Immediately Fires CEO And CFO CZ: Google Still Promoting Crypto Phishing Sites Institutional Crypto Investment Products’ Trading Volumes Drop to Two-Year Low Elon Musk Finally Closes Deal to Purchase Twitter, CNBC Reports LooksRare Becomes the Latest Platform to Forgo Royalty Requirements Amidst 97% Decline in Its Stock, Bitcoin Miner Core Scientific Issues Bankruptcy Warning Twitter Users to Buy and Sell NFTs Through Tweets Chuyển động thị trường:LUNA: $2.438 (-1.52%)ETH: $1559.06 (-0.23%)BNB: $299.2 (+3.60%)XRP: $0.4707 (-0.32%)ADA: $0.404 (+0.50%)SOL: $32.06 (+1.75%)DOGE: $0.08474 (+2.81%)MATIC: $0.9402 (+1.68%)DOT: $6.53 (+1.08%)SHIB: $0.00001166 (+4.95%)Top tăng giá trên Binance:OSMO/BUSD (+39%)MASK/BUSD (+23%)VIDT/BUSD (+12%)   ",
+            "date_created": "2022-10-29 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7254277"
+        },
+        {
+            "id": 7254276,
+            "title": "Bản tin cập nhật thị trường của Binance (28/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng $0,99 nghìn tỷ đô, giảm -0,11% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.000 đến $20.683 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.483, giảm -0.43%.Các đồng có mức tăng mạnh trên thị trường gồm OSMO, MASK, và JOE, tăng lần lượt 54%, 22%, và 18%.Các tin mới trong ngày:Tether’s Paolo Ardoino Says Bitcoin Adoption in Lugano, Switzerland, Going Well Ripple’s Q3 Report Released, XRP Holdings Drop Below 50% The Adoption Continues Premier League Could Sign A Deal With Sorare For Digital Collectible NFTs Binance’s CZ Confirms Participating as Equity Investor in Musk’s Twitter Takeover The Gucci Vault Is Now Open On The Sandbox Elon Musk Becomes Owner Of Twitter, Immediately Fires CEO And CFO CZ: Google Still Promoting Crypto Phishing Sites Institutional Crypto Investment Products’ Trading Volumes Drop to Two-Year Low Elon Musk Finally Closes Deal to Purchase Twitter, CNBC Reports LooksRare Becomes the Latest Platform to Forgo Royalty Requirements Amidst 97% Decline in Its Stock, Bitcoin Miner Core Scientific Issues Bankruptcy Warning Twitter Users to Buy and Sell NFTs Through Tweets THORChain Suffers an Outage Due to Software Bug Google Introduces Cloud-Based Blockchain Node Service for Ethereum Chuyển động thị trường:LUNA: $2.4179 (-0.86%)ETH: $1536.86 (-0.55%)BNB: $297.1 (+3.34%)XRP: $0.4641 (-0.71%)ADA: $0.3968 (-0.55%)DOGE: $0.08522 (+9.55%)SOL: $31.1 (-0.61%)MATIC: $0.9291 (+1.06%)DOT: $6.44 (+0.16%)SHIB: $0.00001105 (+1.94%)Top tăng giá trên Binance:OSMO/BUSD (+54%)MASK/BUSD (+22%)JOE/BUSD (+18%)   ",
+            "date_created": "2022-10-28 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7254276"
+        },
+        {
+            "id": 7253611,
+            "title": "Bản tin cập nhật thị trường của Binance (28/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, giảm -2,27% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.030 đến $20.775 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.184, giảm -2.56%.Các đồng có mức tăng mạnh trên thị trường gồm JOE, CVP, và USTC, tăng lần lượt 23%, 15%, và 11%.Các tin mới trong ngày:The Adoption Continues Premier League Could Sign A Deal With Sorare For Digital Collectible NFTs Binance’s CZ Confirms Participating as Equity Investor in Musk’s Twitter Takeover The Gucci Vault Is Now Open On The Sandbox Elon Musk Becomes Owner Of Twitter, Immediately Fires CEO And CFO CZ: Google Still Promoting Crypto Phishing Sites Institutional Crypto Investment Products’ Trading Volumes Drop to Two-Year Low Elon Musk Finally Closes Deal to Purchase Twitter, CNBC Reports LooksRare Becomes the Latest Platform to Forgo Royalty Requirements Amidst 97% Decline in Its Stock, Bitcoin Miner Core Scientific Issues Bankruptcy Warning Twitter Users to Buy and Sell NFTs Through Tweets THORChain Suffers an Outage Due to Software Bug Google Introduces Cloud-Based Blockchain Node Service for Ethereum Google and the U.S. DOJ Resolve Issue Over BTC-e Investigation Kazakhstan to Test National Digital Currency on BNB Chain, Binance CEO Zhao Says Chuyển động thị trường:LUNA: $2.3934 (-3.57%)ETH: $1503.16 (-3.26%)BNB: $286.5 (-1.00%)XRP: $0.4612 (-2.80%)ADA: $0.3843 (-5.62%)SOL: $30.48 (-3.88%)DOGE: $0.08012 (+2.31%)MATIC: $0.9092 (-2.63%)DOT: $6.4 (-1.54%)TRX: $0.06309 (-1.04%)Top tăng giá trên Binance:JOE/BUSD (+23%)CVP/BUSD (+15%)USTC/BUSD (+11%)   ",
+            "date_created": "2022-10-28 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7253611"
+        },
+        {
+            "id": 7253235,
+            "title": "CZ của Binance xác nhận tham gia với tư cách là nhà đầu tư cổ phiếu trong việc tiếp quản Twitter của Musk",
+            "content": "Vào hôm thứ Sáu, Binance đã xác nhận trở thành nhà đầu tư cổ phần trong việc tiếp quản Twitter (TWTR) của tỷ phú Elon Musk.“Chúng tôi rất vui khi có thể giúp Elon nhận ra một tầm nhìn mới cho Twitter”, người sáng lập Binance, Changpeng “CZ” Zhao, cho biết trong một tuyên bố qua email. để mở rộng việc sử dụng và áp dụng công nghệ tiền mã hoá và blockchain. \"CZ cho biết trong một tweet rằng Binance đã thu được khoảng 500 triệu đô như một phần của thỏa thuận hai ngày trước. Twitter đã không phản hồi ngay lập tức yêu cầu bình luận của CoinDesk.Vào tháng 5, CZ gọi cam kết 500 triệu đô là \"một đóng góp nhỏ cho sự nghiệp\" trong một tweet sau khi tin tức về việc tiếp quản lần đầu tiên xuất hiện. CZ đã nói thêm vào thời điểm đó rằng ưu tiên nên được giảm thiểu thư rác và lừa đảo trên nền tảng này.  ",
+            "date_created": "2022-10-28 12:46:35",
+            "url": "https://www.binance.com/vi/news/flash/7253235"
+        },
+        {
+            "id": 7253245,
+            "title": "Gucci Vault hiện được mở trên Sandbox",
+            "content": "Qua một bài đăng trên Medium vào hôm thứ Năm, Sandbox đã thông báo rằng hiện Gucci Vault đã được mở cửa trong metaverse. Từ ngày 27 tháng 10 đến ngày 9 tháng 11, người chơi trên Sandbox sẽ có thể đi qua Gucci Vault Land để trải nghiệm sự kỳ diệu của cửa hàng ý tưởng thử nghiệm của Gucci, nơi quá khứ, hiện tại và tương lai cùng tồn tại.Ngoài sự kiện này, Gucci sẽ cho ra mắt bộ sưu tập kỹ thuật số voxel đầu tiên của mình trên The Sandbox Marketplace vào ngày 27 tháng 10.Sandbox là một thế giới ảo được xây dựng trên blockchain Ethereum, nơi người chơi có thể xây dựng, sở hữu và kiếm tiền từ trải nghiệm chơi game của họ. SAND giảm hơn 1% trong 24 giờ qua và hiện đang được giao dịch ở mức 0,7758 đô cho mỗi token.   ",
+            "date_created": "2022-10-28 12:06:27",
+            "url": "https://www.binance.com/vi/news/flash/7253245"
+        },
+        {
+            "id": 7253224,
+            "title": "Bản tin cập nhật thị trường của Binance (27/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, tăng 0,05% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.433 đến $21.914 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.629, giảm -0.76%.Các đồng có mức tăng mạnh trên thị trường gồm CVP, KLAY, và MASK, tăng lần lượt 30%, 29%, và 24%.Các tin mới trong ngày:Google and the U.S. DOJ Resolve Issue Over BTC-e Investigation Kazakhstan to Test National Digital Currency on BNB Chain, Binance CEO Zhao Says Top 500 Ethereum Whales Hold $133,187,605 Worth SHIB Combined Dogecoin Skyrockets 22% as Elon Musk Visited Twitter HQ Ahead of Purchase Collab.Land Integrates Ronin Network into Their Command Center Stone Ridge Launches A Program For The Bitcoin Lightning Network Phishing Scammer Monkey Drainer has Pilfered as Much as $1M in Ethereum Google Links Bear Market-Induced Decline in Crypto Ads to its Missed Earnings SushiSwap to Create Legal Entities in Panama And Cayman Islands Solana Projects Reboot as Money Lost From Mango Markets Fiasco Is Recovered Facebook Parent Meta Misses Revenue Estimates for Metaverse Division in Q3, Expects Losses to Grow in 2023 Norway Steps Into Metaverse With Decentraland Tax Office Indian firm Reliance becomes first to post earnings call on metaverse Chuyển động thị trường:LUNA: $2.4759 (+1.58%)ETH: $1562.09 (-0.24%)BNB: $288.8 (-0.62%)XRP: $0.4718 (+1.57%)ADA: $0.4018 (-0.45%)SOL: $31.44 (+0.38%)DOGE: $0.08302 (+14.37%)MATIC: $0.9238 (-0.96%)DOT: $6.46 (-0.15%)SHIB: $0.00001113 (+3.82%)Top tăng giá trên Binance:CVP/BUSD (+30%)KLAY/BUSD (+29%)MASK/BUSD (+24%)   ",
+            "date_created": "2022-10-28 03:00:47",
+            "url": "https://www.binance.com/vi/news/flash/7253224"
+        },
+        {
+            "id": 7253216,
+            "title": "Bản tin cập nhật thị trường của Binance (27/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, giảm -0,75% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.433 đến $21.999 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.562, giảm -1.50%.Các đồng có mức tăng mạnh trên thị trường gồm KLAY, DOGE, và ALCX, tăng lần lượt 31%, 14%, và 13%.Các tin mới trong ngày:Google and the U.S. DOJ Resolve Issue Over BTC-e Investigation Top 500 Ethereum Whales Hold $133,187,605 Worth SHIB Combined Dogecoin Skyrockets 22% as Elon Musk Visited Twitter HQ Ahead of Purchase Collab.Land Integrates Ronin Network into Their Command Center Stone Ridge Launches A Program For The Bitcoin Lightning Network Phishing Scammer Monkey Drainer has Pilfered as Much as $1M in Ethereum Google Links Bear Market-Induced Decline in Crypto Ads to its Missed Earnings SushiSwap to Create Legal Entities in Panama And Cayman Islands Solana Projects Reboot as Money Lost From Mango Markets Fiasco Is Recovered Facebook Parent Meta Misses Revenue Estimates for Metaverse Division in Q3, Expects Losses to Grow in 2023 Norway Steps Into Metaverse With Decentraland Tax Office Indian firm Reliance becomes first to post earnings call on metaverse In Topsy Turvy Market Logic, Positive U.S. GDP Could Be Negative For Crypto Chuyển động thị trường:LUNA: $2.4362 (-1.02%)ETH: $1544.76 (-1.52%)BNB: $287.4 (-0.86%)XRP: $0.4673 (-0.26%)ADA: $0.3986 (-2.28%)SOL: $31.29 (-0.54%)DOGE: $0.07773 (+14.48%)MATIC: $0.9188 (-3.80%)DOT: $6.43 (-0.92%)SHIB: $0.00001084 (+2.26%)Top tăng giá trên Binance:KLAY/BUSD (+31%)DOGE/BUSD (+14%)ALCX/BUSD (+13%)   ",
+            "date_created": "2022-10-27 23:00:01",
+            "url": "https://www.binance.com/vi/news/flash/7253216"
+        },
+        {
+            "id": 7251906,
+            "title": "Bản tin cập nhật thị trường của Binance (27/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, tăng 0,70% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $20.342 đến $21.050 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.713, tăng 0.10%.Các đồng có mức tăng mạnh trên thị trường gồm KLAY, MASK, và DOGE, tăng lần lượt 28%, 20%, và 18%.Các tin mới trong ngày:Top 500 Ethereum Whales Hold $133,187,605 Worth SHIB Combined Dogecoin Skyrockets 22% as Elon Musk Visited Twitter HQ Ahead of Purchase Collab.Land Integrates Ronin Network into Their Command Center Stone Ridge Launches A Program For The Bitcoin Lightning Network Phishing Scammer Monkey Drainer has Pilfered as Much as $1M in Ethereum Google Links Bear Market-Induced Decline in Crypto Ads to its Missed Earnings SushiSwap to Create Legal Entities in Panama And Cayman Islands Solana Projects Reboot as Money Lost From Mango Markets Fiasco Is Recovered Facebook Parent Meta Misses Revenue Estimates for Metaverse Division in Q3, Expects Losses to Grow in 2023 Norway Steps Into Metaverse With Decentraland Tax Office Indian firm Reliance becomes first to post earnings call on metaverse In Topsy Turvy Market Logic, Positive U.S. GDP Could Be Negative For Crypto Bitcoin Jumps to $21K After Soft US Data, Less Hawkish BoC Binance Launches Native Oracle Network, Starting With BNB Chain Binance, sàn giao dịch tiền mã hoá lớn nhất thế giới theo khối lượng, đã ra mắt dịch vụ oracle gốc vào hôm thứ Tư giúp các hợp đồng thông minh chạy trên đầu vào và đầu ra trong thế giới thực, bắt đầu với hệ sinh thái BNB Chain.Vietnam's Prime Minister Says Country Needs to Regulate Crypto The Sandbox partners with PlayboyNFTs to create ‘MetaMansion’ Crypto Exchange SushiSwap Approves Restructuring, Will Create Three Firms for DAO Axelar and Polygon Supernets Team Up to Provide Cross-Chain Interoperability Macro Problems Are Clouding Ethereum Merge Advances First Mover Americas: Bitcoin, Ether Surge on Short Squeeze Western Union’s Recent Trademark Filing Hints Crypto Foray Gaming DAO Merit Circle to Burn Nearly $170M Worth of MC Tokens Tổ chức tự trị phi tập trung (DAO) Merit Circle của game Play-to-earn đã bỏ phiếu để đốt gần 170 triệu đô token MC gốc của mình.Chuyển động thị trường:LUNA: $2.4818 (+0.43%)ETH: $1553.87 (+1.04%)BNB: $289.2 (-0.24%)XRP: $0.4744 (+2.07%)ADA: $0.4072 (+0.27%)SOL: $31.73 (+0.51%)DOGE: $0.07833 (+18.25%)MATIC: $0.934 (-2.46%)DOT: $6.51 (-0.91%)SHIB: $0.00001117 (+6.28%)Top tăng giá trên Binance:KLAY/BUSD (+28%)MASK/BUSD (+20%)DOGE/BUSD (+18%)   ",
+            "date_created": "2022-10-27 16:00:17",
+            "url": "https://www.binance.com/vi/news/flash/7251906"
+        },
+        {
+            "id": 7251924,
+            "title": "Collab.Land tích hợp Ronin Network vào trung tâm chỉ huy",
+            "content": "Trên Twitter vào hôm thứ Tư, đội ngũ Axie Infinity thông báo Collab.Land đã tích hợp Ronin Network vào trung tâm chỉ huy (Command Center). Collab.Land là một nền tảng được thiết kế để phục vụ các cộng đồng được mã hóa. Nhờ tích hợp, Collab.Land hiện cho phép bất kỳ Discord nào có quyền truy cập kênh cấp token dựa trên quyền sở hữu nội dung Ronin. Điều này sẽ cho phép một lớp cộng đồng, an toàn và trải nghiệm độc quyền mới.Axie Infinity là vũ trụ vật nuôi kỹ thuật số lấy cảm hứng từ Pokémon được xây dựng trên blockchain Ethereum, nơi bất kỳ ai cũng có thể kiếm được phần thưởng token thông qua lối chơi có kỹ năng và đóng góp cho hệ sinh thái.  ",
+            "date_created": "2022-10-27 14:45:45",
+            "url": "https://www.binance.com/vi/news/flash/7251924"
+        },
+        {
+            "id": 7251921,
+            "title": "Thủ tướng Việt Nam kêu gọi xây dựng khung pháp lý cho tiền mã hoá",
+            "content": "Việt Nam hiện chưa chính thức công nhận nhưng giao dịch tiền mã hoá ngày càng trở nên phổ biến hơn với người dân trong nước, vì vậy Thủ tướng Phạm Minh Chính cho rằng cần có sự điều chỉnh về mặt pháp lý.Theo báo Vnexpress, cho ý kiến về dự thảo Luật Phòng, chống rửa tiền (sửa đổi) tại phiên thảo luận với Chính phủ ngày 24/10, Thủ tướng Phạm Minh Chính cho biết: có hai loại ý kiến liên quan đến quy định giao dịch bằng tiền mã hoá và chống rửa tiền thông qua loại tiền này.Thủ tướng Phạm Minh Chính phát biểu tại phiên thảo luậnChính phủ Việt Nam phần lớn không công nhận tiền mã hoá là một phương thức thanh toán trong nước, tuy nhiên, một số báo cáo cho thấy Việt Nam đứng đầu trong số tất cả các quốc gia về việc áp dụng tiền mã hoá trong cả năm 2022 và 2021. Nhận thức và giao dịch tiền mã hoá ở quốc gia này luôn ở mức cao.Ông Chính ám chỉ rằng dự luật Phòng chống rửa tiền, hay AML, nên công nhận một sửa đổi đối với lý do “trên thực tế, mọi người vẫn kinh doanh” tiền mã hoá ở Việt Nam. Nhận xét của Thủ tướng cho thấy chính phủ có thể xem xét quy định về tiền mã hoá để giải quyết vai trò trong tội phạm tài chính.Quốc hội sẽ thảo luận về dự luật chống rửa tiền vào ngày 1/11 và có thể quyết định thông qua vào cuối kỳ họp vào ngày 15/11. ",
+            "date_created": "2022-10-27 11:40:39",
+            "url": "https://www.binance.com/vi/news/flash/7251921"
+        },
+        {
+            "id": 7251605,
+            "title": "Bản tin cập nhật thị trường của Binance (26/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, tăng 2,19% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.985 đến $21.050 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.786, tăng 2.45%.Các đồng có mức tăng mạnh trên thị trường gồm ILV, DOGE, và VIB, tăng lần lượt 23%, 14%, và 11%.Các tin mới trong ngày:In Topsy Turvy Market Logic, Positive U.S. GDP Could Be Negative For Crypto Bitcoin Jumps to $21K After Soft US Data, Less Hawkish BoC Binance Launches Native Oracle Network, Starting With BNB Chain Binance, sàn giao dịch tiền mã hoá lớn nhất thế giới theo khối lượng, đã ra mắt dịch vụ oracle gốc vào hôm thứ Tư giúp các hợp đồng thông minh chạy trên đầu vào và đầu ra trong thế giới thực, bắt đầu với hệ sinh thái BNB Chain.Vietnam's Prime Minister Says Country Needs to Regulate Crypto The Sandbox partners with PlayboyNFTs to create ‘MetaMansion’ Crypto Exchange SushiSwap Approves Restructuring, Will Create Three Firms for DAO Axelar and Polygon Supernets Team Up to Provide Cross-Chain Interoperability Macro Problems Are Clouding Ethereum Merge Advances First Mover Americas: Bitcoin, Ether Surge on Short Squeeze Western Union’s Recent Trademark Filing Hints Crypto Foray Gaming DAO Merit Circle to Burn Nearly $170M Worth of MC Tokens Tổ chức tự trị phi tập trung (DAO) Merit Circle của game Play-to-earn đã bỏ phiếu để đốt gần 170 triệu đô token MC gốc của mình.Almost 50% of Gen Z and Millennials Want Crypto in Retirement Funds: Survey Binance NFT’s Spooktacular Scavenger Hunt Chuyển động thị trường:LUNA: $2.4373 (+0.30%)ETH: $1565.51 (+4.74%)BNB: $290.6 (+0.59%)XRP: $0.4649 (-0.28%)ADA: $0.4036 (-2.70%)SOL: $31.32 (-0.79%)DOGE: $0.07254 (+13.73%)MATIC: $0.9325 (+0.30%)DOT: $6.46 (-1.37%)SHIB: $0.00001071 (+3.98%)Top tăng giá trên Binance:ILV/BUSD (+23%)DOGE/BUSD (+14%)VIB/BUSD (+11%)   ",
+            "date_created": "2022-10-27 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7251605"
+        },
+        {
+            "id": 7251601,
+            "title": "Bản tin cập nhật thị trường của Binance (26/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, tăng 5,26% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.718 đến $21.050 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.878, tăng 5.63%.Các đồng có mức tăng mạnh trên thị trường gồm ILV, OP, và SUSHI, tăng lần lượt 31%, 18%, và 15%.Các tin mới trong ngày:Bitcoin Jumps to $21K After Soft US Data, Less Hawkish BoC Binance Launches Native Oracle Network, Starting With BNB Chain Binance, sàn giao dịch tiền mã hoá lớn nhất thế giới theo khối lượng, đã ra mắt dịch vụ oracle gốc vào hôm thứ Tư giúp các hợp đồng thông minh chạy trên đầu vào và đầu ra trong thế giới thực, bắt đầu với hệ sinh thái BNB Chain.Vietnam's Prime Minister Says Country Needs to Regulate Crypto Crypto Exchange SushiSwap Approves Restructuring, Will Create Three Firms for DAO Axelar and Polygon Supernets Team Up to Provide Cross-Chain Interoperability Macro Problems Are Clouding Ethereum Merge Advances First Mover Americas: Bitcoin, Ether Surge on Short Squeeze Western Union’s Recent Trademark Filing Hints Crypto Foray Gaming DAO Merit Circle to Burn Nearly $170M Worth of MC Tokens Tổ chức tự trị phi tập trung (DAO) Merit Circle của game Play-to-earn đã bỏ phiếu để đốt gần 170 triệu đô token MC gốc của mình.Almost 50% of Gen Z and Millennials Want Crypto in Retirement Funds: Survey Binance NFT’s Spooktacular Scavenger Hunt Crypto Stocks Soar as Bitcoin Rallies to Retake $20K Reddit NFTs Challenge Bored Apes on OpenSea with Trade Surge Binance’s Changpeng Zhao Says He Will Continue To Financially Back Musk’s Twitter Buyout Deal: Bloomberg Chuyển động thị trường:LUNA: $2.4608 (+2.06%)ETH: $1569.18 (+11.46%)BNB: $289.8 (+3.13%)XRP: $0.4685 (+2.52%)ADA: $0.4078 (+8.95%)SOL: $31.44 (+5.57%)DOGE: $0.06795 (+11.07%)MATIC: $0.955 (+4.16%)DOT: $6.47 (+4.86%)TRX: $0.06316 (+1.95%)Top tăng giá trên Binance:ILV/BUSD (+31%)OP/BUSD (+18%)SUSHI/BUSD (+15%)   ",
+            "date_created": "2022-10-26 23:00:01",
+            "url": "https://www.binance.com/vi/news/flash/7251601"
+        },
+        {
+            "id": 7250470,
+            "title": "Bản tin cập nhật thị trường của Binance (26/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 1,00 nghìn tỷ đô, tăng 7,06% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.240 đến $20.787 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.687, tăng 7.21%.Các đồng có mức tăng mạnh trên thị trường gồm SSV, OP, và ILV, tăng lần lượt 23%, 20%, và 19%.Các tin mới trong ngày:Almost 50% of Gen Z and Millennials Want Crypto in Retirement Funds: Survey The Tech Giant Apple Refuses to Exempt NFTs From App Store’s 30% Fee Crypto Stocks Soar as Bitcoin Rallies to Retake $20K Reddit NFTs Challenge Bored Apes on OpenSea with Trade Surge Binance’s Changpeng Zhao Says He Will Continue To Financially Back Musk’s Twitter Buyout Deal: Bloomberg Compound Pauses YFI, ZRX, BAT and MKR Supply to Protect Against Potential Exploits UK Lawmakers Vote to Recognize Crypto As Regulated Financial Instruments Các nhà lập pháp ở Vương quốc Anh đã bỏ phiếu ủng hộ việc công nhận tài sản tiền mã hoá là các sản phẩm và công cụ tài chính được quy định tại quốc gia này vào thứ Ba.Digital Asset Investment Products See Outflows of $5M Last Week - CoinShares CoinShares cho biết các sản phẩm đầu tư tài sản kỹ thuật số đã chứng kiến dòng tiền 5 triệu đô tổng cộng vào tuần trước.Why Bitcoin Has Been Highly Correlated With Fiat First Mover Americas: Bitcoin, Ether Remain in Tight Price Range EU Stablecoin Caps Could Lighten or Get Tougher, French Official Warns Polygon's MATIC Eyes $1 Level After Recent Breakout: Chart Analysts Chuyển động thị trường:LUNA: $2.4695 (+3.60%)ETH: $1537 (+14.35%)BNB: $289.8 (+6.23%)XRP: $0.4645 (+3.82%)ADA: $0.4057 (+13.17%)SOL: $31.54 (+11.53%)DOGE: $0.06624 (+10.60%)MATIC: $0.9571 (+8.15%)DOT: $6.57 (+10.42%)TRX: $0.06301 (+2.61%)Top tăng giá trên Binance:SSV/BUSD (+23%)OP/BUSD (+20%)ILV/BUSD (+19%)   ",
+            "date_created": "2022-10-26 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7250470"
+        },
+        {
+            "id": 7250097,
+            "title": "Bản tin cập nhật thị trường của Binance (25/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,98 nghìn tỷ đô, tăng 5,17% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.240 đến $20.421 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $20.279, tăng 4.84%.Các đồng có mức tăng mạnh trên thị trường gồm SSV, TRIBE, và VIB, tăng lần lượt 24%, 21%, và 18%.Các tin mới trong ngày:Crypto Stocks Soar as Bitcoin Rallies to Retake $20K Reddit NFTs Challenge Bored Apes on OpenSea with Trade Surge Binance’s Changpeng Zhao Says He Will Continue To Financially Back Musk’s Twitter Buyout Deal: Bloomberg Compound Pauses YFI, ZRX, BAT and MKR Supply to Protect Against Potential Exploits UK Lawmakers Vote to Recognize Crypto As Regulated Financial Instruments Lawmakers in the U.K. voted in favor of recognizing crypto assets as regulated financial instruments and products in the country on Tuesday.Digital Asset Investment Products See Outflows of $5M Last Week - CoinShares CoinShares cho biết các sản phẩm đầu tư tài sản kỹ thuật số đã chứng kiến dòng tiền 5 triệu đô tổng cộng vào tuần trước.Why Bitcoin Has Been Highly Correlated With Fiat First Mover Americas: Bitcoin, Ether Remain in Tight Price Range EU Stablecoin Caps Could Lighten or Get Tougher, French Official Warns Polygon's MATIC Eyes $1 Level After Recent Breakout: Chart Analysts Apple Refuses to Exempt NFTs From App Store’s 30% Fee CFTC Chair Behnam Says ‘Number One Accomplishment’ Is Track Record of Enforcement Actions Chuyển động thị trường:LUNA: $2.4294 (+2.23%)ETH: $1494.19 (+11.09%)BNB: $288.9 (+5.67%)XRP: $0.466 (+2.08%)ADA: $0.4143 (+14.96%)SOL: $31.56 (+11.05%)DOGE: $0.06379 (+7.14%)MATIC: $0.9293 (+3.65%)DOT: $6.56 (+11.38%)TRX: $0.06261 (+1.43%)Top tăng giá trên Binance:SSV/BUSD (+24%)TRIBE/BUSD (+21%)VIB/BUSD (+18%)   ",
+            "date_created": "2022-10-26 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7250097"
+        },
+        {
+            "id": 7249509,
+            "title": "Bản tin cập nhật thị trường của Binance (25/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,95 nghìn tỷ đô, tăng 2,59% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.223 đến $19.814 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.758, tăng 2.37%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, SSV, và MULTI, tăng lần lượt 21%, 13%, và 12%.Các tin mới trong ngày:Digital Asset Investment Products See Outflows of $5M Last Week - CoinShares CoinShares cho biết các sản phẩm đầu tư tài sản kỹ thuật số đã chứng kiến dòng tiền 5 triệu đô tổng cộng vào tuần trước.Why Bitcoin Has Been Highly Correlated With Fiat First Mover Americas: Bitcoin, Ether Remain in Tight Price Range EU Stablecoin Caps Could Lighten or Get Tougher, French Official Warns Polygon's MATIC Eyes $1 Level After Recent Breakout: Chart Analysts Apple Refuses to Exempt NFTs From App Store’s 30% Fee CFTC Chair Behnam Says ‘Number One Accomplishment’ Is Track Record of Enforcement Actions Chuyển động thị trường:LUNA: $2.4112 (+1.44%)ETH: $1407.9 (+4.93%)BNB: $281 (+2.89%)XRP: $0.4569 (+0.26%)ADA: $0.3742 (+4.61%)SOL: $29.76 (+4.64%)DOGE: $0.0612 (+3.41%)MATIC: $0.917 (+2.38%)DOT: $6.16 (+4.94%)TRX: $0.06195 (+0.76%)Top tăng giá trên Binance:VIB/BUSD (+21%)SSV/BUSD (+13%)MULTI/BUSD (+12%)   ",
+            "date_created": "2022-10-25 23:00:13",
+            "url": "https://www.binance.com/vi/news/flash/7249509"
+        },
+        {
+            "id": 7249507,
+            "title": "Bản tin cập nhật thị trường của Binance (25/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 0,01% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.161 đến $19.453 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.294, giảm -0.24%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, PORTO, và DREP, tăng lần lượt 20%, 15%, và 12%.Các tin mới trong ngày:Apple Refuses to Exempt NFTs From App Store’s 30% Fee CFTC Chair Behnam Says ‘Number One Accomplishment’ Is Track Record of Enforcement Actions 'Hyperbitcoinization' Is Coming to an Emerging Market Near You, Paxful's Ray Youssef Says NEAR Foundation Urges Wind-Down of USN Stablecoin, Sets Aside $40M Meta Downgraded by BofA to Neutral From Buy Partly on Metaverse Concerns PancakeSwap To Fully Integrate With Aptos Ecosystem Crypto-Friendly Rishi Sunak to Become UK Prime Minister Following Truss Exit Black Thursdays: Bitcoin's Five Worst Crashes Chuyển động thị trường:LUNA: $2.3833 (+0.51%)ETH: $1344.02 (+0.48%)BNB: $272.7 (-0.47%)XRP: $0.4473 (-1.63%)ADA: $0.3584 (-0.53%)SOL: $28.27 (-1.22%)DOGE: $0.05989 (+0.64%)MATIC: $0.8844 (+0.29%)DOT: $5.94 (+1.37%)TRX: $0.06141 (-0.20%)Top tăng giá trên Binance:VIB/BUSD (+20%)PORTO/BUSD (+15%)DREP/BUSD (+12%)   ",
+            "date_created": "2022-10-25 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7249507"
+        },
+        {
+            "id": 7249523,
+            "title": "1inch Network đã đốt 240 token ETH vào tuần trước",
+            "content": "Trên Twitter vào hôm thứ Hai, 1inch Network đã cung cấp bản cập nhật đốt token cho cộng đồng của mình, đội ngũ thông báo đã đốt cháy số Ether trị giá 313.000 đô (240,18 ETH) vào tuần trước. 1inch Network cho biết họ đã đốt tổng cộng hơn 125,5 triệu USD tiền Ether (39,5 nghìn ETH).1inch Network là một giao thức tổng hợp DEX trên nhiều chuỗi, bao gồm Ethereum, BSC, Polygon, Optimism và Arbitrum. ",
+            "date_created": "2022-10-25 14:46:07",
+            "url": "https://www.binance.com/vi/news/flash/7249523"
+        },
+        {
+            "id": 7249522,
+            "title": "Pancakeswap đã đốt 6.839.824 token CAKE trong tuần này",
+            "content": "Trên Twitter vào hôm thứ Hai, đội ngũ Pancakeswap thông báo đã đốt 6.839.824 token CAKE (trị giá 30 triệu đô) trong tuần này. Sàn giao dịch phi tập trung đã tạo ra 501.000 đô (113 nghìn token CAKE) phí giao dịch cho thị trường Swap và Perpetual. Thị trường Prediction và Lottery lần lượt tạo ra 55 nghìn token CAKE (245 nghìn đô) và 30 nghìn token CAKE (134 nghìn đô).PancakeSwap là một sàn giao dịch phi tập trung dựa trên BNB Chain (DEX) với mô hình tạo lập thị trường tự động (AMM) giúp swap token BEP-20.  ",
+            "date_created": "2022-10-25 14:45:33",
+            "url": "https://www.binance.com/vi/news/flash/7249522"
+        },
+        {
+            "id": 7248642,
+            "title": "Bản tin cập nhật thị trường của Binance (24/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, giảm -0,27% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.161 đến $19.695 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.341, giảm -0.85%.Các đồng có mức tăng mạnh trên thị trường gồm NULS, MOB, và KLAY, tăng lần lượt 37%, 18%, và 13%.Các tin mới trong ngày:'Hyperbitcoinization' Is Coming to an Emerging Market Near You, Paxful's Ray Youssef Says NEAR Foundation Urges Wind-Down of USN Stablecoin, Sets Aside $40M Meta Downgraded by BofA to Neutral From Buy Partly on Metaverse Concerns PancakeSwap To Fully Integrate With Aptos Ecosystem Crypto-Friendly Rishi Sunak to Become UK Prime Minister Following Truss Exit Black Thursdays: Bitcoin's Five Worst Crashes Azukis Gold Skateboard Release Yields Record Breaking 1,800 ETH CZ Says Binance Is Massively Investing In DeFi Rapid Tech Adoption and Talents Make India a Key Player in Global Web3 Market: Study Read Binance News and Play WODL to Share $10,000 in BUSD Token Vouchers! Chuyển động thị trường:LUNA: $2.3755 (-1.82%)ETH: $1345.11 (+1.02%)BNB: $273.4 (-0.26%)XRP: $0.4564 (-1.98%)ADA: $0.3604 (+1.55%)SOL: $28.42 (-1.49%)DOGE: $0.05955 (-0.48%)MATIC: $0.8967 (+6.21%)DOT: $5.89 (-0.67%)TRX: $0.06173 (+0.11%)Top tăng giá trên Binance:NULS/BUSD (+37%)MOB/BUSD (+18%)KLAY/BUSD (+13%)   ",
+            "date_created": "2022-10-25 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7248642"
+        },
+        {
+            "id": 7248062,
+            "title": "Bản tin cập nhật thị trường của Binance (24/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 0,81% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.161 đến $19.695 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.319, tăng 0.65%.Các đồng có mức tăng mạnh trên thị trường gồm NULS, PORTO, và KLAY, tăng lần lượt 46%, 19%, và 17%.Các tin mới trong ngày:PancakeSwap To Fully Integrate With Aptos Ecosystem Azukis Gold Skateboard Release Yields Record Breaking 1,800 ETH CZ Says Binance Is Massively Investing In DeFi Rapid Tech Adoption and Talents Make India a Key Player in Global Web3 Market: Study Read Binance News and Play WODL to Share $10,000 in BUSD Token Vouchers! Chuyển động thị trường:LUNA: $2.38 (-4.59%)ETH: $1343.14 (+2.22%)BNB: $273.2 (+0.89%)XRP: $0.4557 (-0.33%)ADA: $0.3582 (+1.99%)SOL: $28.46 (+1.79%)DOGE: $0.05918 (-0.24%)MATIC: $0.8971 (+7.45%)DOT: $5.87 (+0.69%)TRX: $0.06151 (+0.10%)Top tăng giá trên Binance:NULS/BUSD (+46%)PORTO/BUSD (+19%)KLAY/BUSD (+17%)   ",
+            "date_created": "2022-10-24 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7248062"
+        },
+        {
+            "id": 7248063,
+            "title": "PancakeSwap tích hợp hoàn toàn với hệ sinh thái Aptos",
+            "content": "PancakeSwap đã thông báo với cộng đồng của mình qua Twitter rằng họ sẽ hỗ trợ và bắt đầu triển khai các sản phẩm đầy đủ tính năng và token CAKE trên Aptos.Aptos là blockchain đầu tiên mà PancakeSwap sẽ được tích hợp hoàn toàn và sự tích hợp này sẽ là lần đầu tiên giúp cho token CAKE trở nên thực sự đa dạng. Ngoài ra, người dùng, dự án Aptos và PancakeSwap sẽ có thể thưởng thức tất cả các sản phẩm cốt lõi của PancakeSwap như Swap, Farm, Pools và IFO.PancakeSwap cho biết họ dự kiến sẽ tung ra tất cả 4 sản phẩm chủ chốt vào cuối tháng 11 và đã kêu gọi hợp tác với các dự án trong hệ sinh thái Aptos, bao gồm thiết lập nhóm thanh khoản APT và cung cấp thanh khoản tốt hơn cho các dự án Aptos mới hợp tác với họ.   ",
+            "date_created": "2022-10-24 21:41:07",
+            "url": "https://www.binance.com/vi/news/flash/7248063"
+        },
+        {
+            "id": 7247874,
+            "title": "Bản tin cập nhật thị trường của Binance (24/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 0,86% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.073 đến $19.695 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.338, tăng 0.79%.Các đồng có mức tăng mạnh trên thị trường gồm NULS, DNT, và KLAY, tăng lần lượt 36%, 24%, và 20%.Các tin mới trong ngày:Read Binance News and Play WODL to Share $10,000 in BUSD Token Vouchers! Chuyển động thị trường:LUNA: $2.3713 (+0.89%)ETH: $1337.56 (+1.96%)BNB: $273.9 (+1.29%)XRP: $0.4547 (-1.09%)ADA: $0.3602 (+2.42%)SOL: $28.63 (+0.70%)DOGE: $0.05951 (-0.10%)MATIC: $0.8816 (+6.15%)DOT: $5.86 (+0.17%)TRX: $0.06154 (+0.16%)Top tăng giá trên Binance:NULS/BUSD (+36%)DNT/BUSD (+24%)KLAY/BUSD (+20%)   ",
+            "date_created": "2022-10-24 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7247874"
+        },
+        {
+            "id": 7247889,
+            "title": "Dogechain tăng vọt hơn 300% trong tuần trước",
+            "content": "Dogechain, được giới thiệu vào đầu năm nay, ra đời nhằm cung cấp khả năng hợp đồng thông minh cho cộng đồng Dogecoin, đã chứng kiến giá trị thương mại của nó tăng hơn 200% trong tuần trước và hơn 70% trong 24 giờ qua. Mức cao nhất cũng phản ánh mức tăng 75% so với một tháng trước đó.Từ 0,0004 đô vào thứ Sáu tăng lên 0,00185 đô vào Chủ nhật, giá DC đã tăng 363% trong bảy ngày lên mức chưa từng thấy kể từ tháng 9.Giá trị đang tăng trở lại! Và có vẻ như tăng hơn thế nữa từ việc staking và veDC xung quanh pic.twitter.com/3Wpsrt54W1— Dogechain (Giving away a Tesla) (@DogechainFamily) ngày 23 tháng 10 năm 2022Sự gia tăng giá trị là đáng chú ý vì Dogechain (DC) đã giảm 90% giá trị từ mức cao nhất mọi thời đại vào cuối tháng 8. DC đã từ từ giảm trong hai tháng qua, từ 0,004 đô xuống còn 0,0004 đô.Biểu đồ giá DC. Nguồn: CoinMarketCapDogechain, sử dụng DOGE làm gas, ra mắt vào ngày 16 tháng 8, tăng giá trị lên 0,0045 đô với khối lượng giao dịch hơn 50 triệu đô trong vòng hai tuần. DOGE xếp hạng thứ 2635 trong số các loại tiền mã hoá được CoinMarketCap theo dõi.     ",
+            "date_created": "2022-10-24 13:33:40",
+            "url": "https://www.binance.com/vi/news/flash/7247889"
+        },
+        {
+            "id": 7247245,
+            "title": "Độ Khó Khi Khai Thác Bitcoin đã tăng lên 3,4%",
+            "content": "Độ khó khi khai thác Bitcoin đã tăng lên khoảng 3,4% vào tuần trước.Mức tăng là nhỏ so với mức tăng 13% vào đầu tháng này. Đối với mỗi block năm 2016, độ khó khai thác được tự động điều chỉnh, diễn ra khoảng hai tuần một lần. Thách thức là đảm bảo rằng các giao dịch diễn ra với tốc độ nhất quán bất kể tốc độ băm mạng cao hay thấp vào bất kỳ thời điểm cụ thể nào. Tháng này, tốc độ băm khai thác Bitcoin đạt mức cao nhất mọi thời đại là 266 EH / s. Tính đến Chủ nhật vừa rồi, tốc độ băm của mạng lưới là khoảng 261,35 EH / s.Theo dữ liệu của Coin Metrics, các công ty khai thác đã tạo ra doanh thu khoảng 420 triệu đô la cho đến nay trong tháng này. Tại thời điểm bài viết được soạn thảo, BTC đang được giao dịch ở mức 19.367 đô la.Biểu đồ hàng ngày của BTC. Nguồn: CoinCu        ",
+            "date_created": "2022-10-24 10:33:40",
+            "url": "https://www.binance.com/vi/news/flash/7247245"
+        },
+        {
+            "id": 7247176,
+            "title": "Bản tin cập nhật thị trường của Binance (23/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 1,28% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.073 đến $19.533 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.506, tăng 1.67%.Các đồng có mức tăng mạnh trên thị trường gồm KLAY, GAS, và OP, tăng lần lượt 36%, 18%, và 13%.Chuyển động thị trường:LUNA: $2.4196 (+3.95%)ETH: $1331.63 (+1.33%)BNB: $274.1 (+1.52%)XRP: $0.4656 (+0.41%)ADA: $0.3547 (+1.40%)SOL: $28.84 (+3.63%)DOGE: $0.05989 (+0.69%)MATIC: $0.844 (+1.26%)DOT: $5.92 (+1.54%)TRX: $0.06166 (-0.27%)Top tăng giá trên Binance:KLAY/BUSD (+36%)GAS/BUSD (+18%)OP/BUSD (+13%)   ",
+            "date_created": "2022-10-24 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7247176"
+        },
+        {
+            "id": 7247172,
+            "title": "Bản tin cập nhật thị trường của Binance (23/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, giảm -0,19% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.073 đến $19.249 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.194, giảm -0.23%.Các đồng có mức tăng mạnh trên thị trường gồm GAS, KLAY, và NULS, tăng lần lượt 20%, 18%, và 12%.Chuyển động thị trường:LUNA: $2.4898 (+6.14%)ETH: $1313.98 (-0.23%)BNB: $270.6 (+0.30%)XRP: $0.4572 (-1.87%)ADA: $0.3512 (+0.31%)SOL: $27.95 (-0.18%)DOGE: $0.05933 (-0.44%)MATIC: $0.8348 (+0.28%)DOT: $5.82 (-0.34%)TRX: $0.06145 (-0.32%)Top tăng giá trên Binance:GAS/BUSD (+20%)KLAY/BUSD (+18%)NULS/BUSD (+12%)   ",
+            "date_created": "2022-10-23 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7247172"
+        },
+        {
+            "id": 7246547,
+            "title": "Bản tin cập nhật thị trường của Binance (22/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 0,19% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.114 đến $19.261 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.186, giảm -0.09%.Các đồng có mức tăng mạnh trên thị trường gồm MLN, DF, và NULS, tăng lần lượt 76%, 68%, và 46%.Chuyển động thị trường:LUNA: $2.327 (-1.07%)ETH: $1314.22 (+0.71%)BNB: $270 (-0.26%)XRP: $0.4638 (+2.27%)ADA: $0.3499 (+0.46%)SOL: $27.82 (-1.49%)DOGE: $0.05948 (+0.30%)MATIC: $0.8337 (+1.20%)DOT: $5.84 (-0.51%)TRX: $0.06182 (+0.23%)Top tăng giá trên Binance:MLN/BUSD (+76%)DF/BUSD (+68%)NULS/BUSD (+46%)   ",
+            "date_created": "2022-10-23 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246547"
+        },
+        {
+            "id": 7246546,
+            "title": "Bản tin cập nhật thị trường của Binance (22/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 1,16% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.089 đến $19.261 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.237, tăng 0.31%.Các đồng có mức tăng mạnh trên thị trường gồm DF, MLN, và BIFI, tăng lần lượt 94%, 85%, và 26%.Chuyển động thị trường:LUNA: $2.3475 (+1.58%)ETH: $1317 (+1.42%)BNB: $269.7 (-0.04%)XRP: $0.4661 (+4.06%)ADA: $0.3501 (+1.98%)SOL: $28 (+1.52%)DOGE: $0.05958 (+1.07%)MATIC: $0.8327 (+3.02%)DOT: $5.84 (-0.17%)TRX: $0.06165 (-0.11%)Top tăng giá trên Binance:DF/BUSD (+94%)MLN/BUSD (+85%)BIFI/BUSD (+26%)   ",
+            "date_created": "2022-10-22 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246546"
+        },
+        {
+            "id": 7246247,
+            "title": "Bản tin cập nhật thị trường của Binance (22/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 1,36% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.660 đến $19.250 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.158, tăng 0.94%.Các đồng có mức tăng mạnh trên thị trường gồm MLN, ALCX, và SYS, tăng lần lượt 126%, 34%, và 19%.Các tin mới trong ngày:The Market Remains Silent Wall Street Analyst ‘Pulling the Plug’ on Bitcoin Miners Owing to Bear Market Woes Bitcoin's Slump Could Continue as Goldman Sees Several More Quarters of Dollar Strength First Mover Americas: Bitcoin and Ether Stay Stable in Chaotic Week in Markets Interpol Starts Its Own Police Metaverse Messaging App Telegram to Auction Usernames on TON Blockchain Chuyển động thị trường:LUNA: $2.3679 (+5.21%)ETH: $1300.97 (+1.80%)BNB: $269.5 (+1.24%)XRP: $0.4598 (+4.64%)ADA: $0.3486 (+4.09%)SOL: $27.85 (+1.27%)DOGE: $0.05936 (+2.34%)MATIC: $0.8205 (+2.83%)DOT: $5.82 (+0.69%)TRX: $0.06155 (+1.00%)Top tăng giá trên Binance:MLN/BUSD (+126%)ALCX/BUSD (+34%)SYS/BUSD (+19%)   ",
+            "date_created": "2022-10-22 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246247"
+        },
+        {
+            "id": 7246246,
+            "title": "Bản tin cập nhật thị trường của Binance (21/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 0,68% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.660 đến $19.250 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.196, tăng 0.69%.Các đồng có mức tăng mạnh trên thị trường gồm QNT, BICO, và KLAY, tăng lần lượt 21%, 15%, và 11%.Các tin mới trong ngày:The Market Remains Silent Wall Street Analyst ‘Pulling the Plug’ on Bitcoin Miners Owing to Bear Market Woes Bitcoin's Slump Could Continue as Goldman Sees Several More Quarters of Dollar Strength First Mover Americas: Bitcoin and Ether Stay Stable in Chaotic Week in Markets Interpol Starts Its Own Police Metaverse Messaging App Telegram to Auction Usernames on TON Blockchain Crypto Market Up Despite Bearish Sentiment Chuyển động thị trường:LUNA: $2.3488 (-0.63%)ETH: $1303.63 (+1.52%)BNB: $270.5 (+0.60%)XRP: $0.4529 (+3.38%)ADA: $0.3482 (+1.87%)SOL: $28.21 (-0.25%)DOGE: $0.05925 (-1.00%)MATIC: $0.823 (+0.65%)DOT: $5.86 (-1.84%)TRX: $0.06167 (-1.12%)Top tăng giá trên Binance:QNT/BUSD (+21%)BICO/BUSD (+15%)KLAY/BUSD (+11%)   ",
+            "date_created": "2022-10-22 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246246"
+        },
+        {
+            "id": 7246243,
+            "title": "Bản tin cập nhật thị trường của Binance (21/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,91 nghìn tỷ đô, giảm -1,31% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.660 đến $19.255 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.179, giảm -0.35%.Các đồng có mức tăng mạnh trên thị trường gồm LTO, PHA, và KLAY, tăng lần lượt 14%, 13%, và 8%.Các tin mới trong ngày:The Market Remains Silent Wall Street Analyst ‘Pulling the Plug’ on Bitcoin Miners Owing to Bear Market Woes Bitcoin's Slump Could Continue as Goldman Sees Several More Quarters of Dollar Strength First Mover Americas: Bitcoin and Ether Stay Stable in Chaotic Week in Markets Interpol Starts Its Own Police Metaverse Messaging App Telegram to Auction Usernames on TON Blockchain Crypto Market Up Despite Bearish Sentiment Chuyển động thị trường:LUNA: $2.3149 (-4.83%)ETH: $1297.45 (-0.11%)BNB: $269.9 (-0.92%)XRP: $0.4481 (-2.73%)ADA: $0.3436 (-2.61%)SOL: $27.58 (-5.32%)DOGE: $0.05901 (-1.47%)MATIC: $0.8081 (-4.24%)DOT: $5.87 (-4.08%)TRX: $0.06171 (-1.12%)Top tăng giá trên Binance:LTO/BUSD (+14%)PHA/BUSD (+13%)KLAY/BUSD (+8%)   ",
+            "date_created": "2022-10-21 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246243"
+        },
+        {
+            "id": 7246238,
+            "title": "Bản tin cập nhật thị trường của Binance (21/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,91 nghìn tỷ đô, giảm -1,46% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.920 đến $19.348 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $18.978, giảm -0.73%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, LTO, và PHA, tăng lần lượt 23%, 16%, và 6%.Các tin mới trong ngày:Crypto Market Up Despite Bearish Sentiment Crypto Adoption Slowed in Last Year but Remains Above Pre-2021 Levels: Chainalysis Study Binance.US Hires Ex-FBI Agent as First Head of Investigations: Report Stealthy Crypto Hedge Fund Edge Capital Raises $66.8M for DeFi Bets Stablecoins Could ‘Fundamentally Alter’ Banking System, Says US FDIC Chief Liz Truss Steps Down as UK Prime Minister Liz Truss has resigned as U.K. Prime Minister on Thursday after serving just six weeks in office.Crypto Market Cap Climbs In Q3, But Sentiment Remains Poor - Binance Research Crypto market capitalisation increased by 8.4% in the third quarter of 2022, although overall sentiment in the market remains poor, Binance Research said on Thursday in its latest quarterly report on the state of the market.Chuyển động thị trường:LUNA: $2.2491 (-7.68%)ETH: $1277.61 (-1.06%)BNB: $266.2 (-1.95%)XRP: $0.4393 (-4.35%)ADA: $0.3347 (-5.05%)SOL: $27.49 (-5.89%)DOGE: $0.05798 (-2.67%)MATIC: $0.7978 (-5.08%)DOT: $5.78 (-5.40%)TRX: $0.06091 (-2.06%)Top tăng giá trên Binance:VIB/BUSD (+23%)LTO/BUSD (+16%)PHA/BUSD (+6%)   ",
+            "date_created": "2022-10-21 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246238"
+        },
+        {
+            "id": 7246114,
+            "title": "Bản tin cập nhật thị trường của Binance (20/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,91 nghìn tỷ đô, giảm -1,14% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.900 đến $19.348 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.065, giảm -0.88%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, MDT, và PHA, tăng lần lượt 25%, 22%, và 7%.Các tin mới trong ngày:Crypto Adoption Slowed in Last Year but Remains Above Pre-2021 Levels: Chainalysis Study Binance.US Hires Ex-FBI Agent as First Head of Investigations: Report Stealthy Crypto Hedge Fund Edge Capital Raises $66.8M for DeFi Bets Stablecoins Could ‘Fundamentally Alter’ Banking System, Says US FDIC Chief Liz Truss Steps Down as UK Prime Minister Liz Truss has resigned as U.K. Prime Minister on Thursday after serving just six weeks in office.Crypto Market Cap Climbs In Q3, But Sentiment Remains Poor - Binance Research Crypto market capitalisation increased by 8.4% in the third quarter of 2022, although overall sentiment in the market remains poor, Binance Research said on Thursday in its latest quarterly report on the state of the market.Indian Cricket Legend Sachin Tendulkar Enters World of NFTs With Rario Investment Sachin Tendulkar, nicknamed the \"God of Cricket\" and one of India's most celebrated sportsperson, has made his first foray into the world of non-fungible tokens (NFTs) partnering with digital collectibles platform Rario, according to a press release.Polygon Announces a Strategic Partnership with Nubank Twitter User Saves Cross-Chain Bridge from Potential Exploit Celestia Labs Completes $55M In Funding Led By Bain Capital Crypto And Polychain Capital Chuyển động thị trường:LUNA: $2.3649 (-3.45%)ETH: $1284.15 (-0.97%)BNB: $269 (-1.61%)XRP: $0.4381 (-5.03%)ADA: $0.342 (-4.39%)SOL: $28.29 (-4.97%)DOGE: $0.05985 (-1.47%)MATIC: $0.8181 (-6.78%)DOT: $5.96 (-4.33%)TRX: $0.06239 (-0.19%)Top tăng giá trên Binance:VIB/BUSD (+25%)MDT/BUSD (+22%)PHA/BUSD (+7%)   ",
+            "date_created": "2022-10-21 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7246114"
+        },
+        {
+            "id": 7244501,
+            "title": "Bản tin cập nhật thị trường của Binance (20/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, giảm -0,28% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.900 đến $19.348 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.249, giảm -0.15%.Các đồng có mức tăng mạnh trên thị trường gồm MDT, MDX, và USTC, tăng lần lượt 32%, 16%, và 12%.Các tin mới trong ngày:Binance.US Hires Ex-FBI Agent as First Head of Investigations: Report Stealthy Crypto Hedge Fund Edge Capital Raises $66.8M for DeFi Bets Stablecoins Could ‘Fundamentally Alter’ Banking System, Says US FDIC Chief Liz Truss Steps Down as UK Prime Minister Liz Truss has resigned as U.K. Prime Minister on Thursday after serving just six weeks in office.Crypto Market Cap Climbs In Q3, But Sentiment Remains Poor - Binance Research Crypto market capitalisation increased by 8.4% in the third quarter of 2022, although overall sentiment in the market remains poor, Binance Research said on Thursday in its latest quarterly report on the state of the market.Indian Cricket Legend Sachin Tendulkar Enters World of NFTs With Rario Investment Sachin Tendulkar, nicknamed the \"God of Cricket\" and one of India's most celebrated sportsperson, has made his first foray into the world of non-fungible tokens (NFTs) partnering with digital collectibles platform Rario, according to a press release.Polygon Announces a Strategic Partnership with Nubank Twitter User Saves Cross-Chain Bridge from Potential Exploit Celestia Labs Completes $55M In Funding Led By Bain Capital Crypto And Polychain Capital With Bitcoin and Stocks Flat, Rally in DeFi Tokens Gets Notice The cryptocurrency market was mixed on Wednesday: While prices for top assets bitcoin and ether were unusually stable given their volatile history, tokens from decentralized finance (DeFi) took the spotlight.Crypto hacks are set to hit all-time highs in 2022, analyst explains Chuyển động thị trường:LUNA: $2.4335 (-0.28%)ETH: $1299.36 (-0.46%)BNB: $272.5 (-0.26%)XRP: $0.4607 (+0.50%)ADA: $0.3528 (-1.45%)SOL: $29.13 (-2.90%)DOGE: $0.05987 (+1.27%)MATIC: $0.8439 (-3.58%)DOT: $6.12 (-2.08%)TRX: $0.06241 (-0.37%)Top tăng giá trên Binance:MDT/BUSD (+32%)MDX/BUSD (+16%)USTC/BUSD (+12%)   ",
+            "date_created": "2022-10-20 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7244501"
+        },
+        {
+            "id": 7244498,
+            "title": "Bản tin cập nhật thị trường của Binance (20/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, giảm -0,48% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.900 đến $19.301 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.119, giảm -0.42%.Các đồng có mức tăng mạnh trên thị trường gồm VIDT, MDT, và MDX, tăng lần lượt 45%, 26%, và 13%.Các tin mới trong ngày:Polygon Announces a Strategic Partnership with Nubank Twitter User Saves Cross-Chain Bridge from Potential Exploit Celestia Labs Completes $55M In Funding Led By Bain Capital Crypto And Polychain Capital With Bitcoin and Stocks Flat, Rally in DeFi Tokens Gets Notice The cryptocurrency market was mixed on Wednesday: While prices for top assets bitcoin and ether were unusually stable given their volatile history, tokens from decentralized finance (DeFi) took the spotlight.Crypto hacks are set to hit all-time highs in 2022, analyst explains South Africa Classifies Crypto Assets as Financial Products Persistence’s Liquid Staking Protocol pSTAKE Teams Up With Anchorage Digital First Mover Americas: Bitcoin, Ether Slip as UK Inflation Hits 40-Year High Terra Developers Unveil 4-Year Plan to Revive LUNA Ecosystem Terra developers floated a new proposal earlier this week as they look to revive the once-mighty ecosystem even as its controversial co-founder remains wanted by authorities.Brazil’s Largest Digital Lender Nubank to Roll Out Own Token to 70M Users in 2023 Bitcoin Stuck in a Rut as BofA Survey Reveals 'Long Dollar\" is Most Favored Trade How Crypto Might Shake Up England’s Ancient Property Laws Chuyển động thị trường:LUNA: $2.4362 (-1.18%)ETH: $1291.49 (-0.63%)BNB: $271.6 (+0.15%)XRP: $0.4592 (+0.42%)ADA: $0.3524 (-1.29%)SOL: $29.21 (-2.63%)DOGE: $0.05957 (+0.59%)MATIC: $0.8403 (-2.23%)DOT: $6.11 (-0.16%)TRX: $0.06219 (-0.89%)Top tăng giá trên Binance:VIDT/BUSD (+45%)MDT/BUSD (+26%)MDX/BUSD (+13%)   ",
+            "date_created": "2022-10-20 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7244498"
+        },
+        {
+            "id": 7243135,
+            "title": "Bản tin cập nhật thị trường của Binance (19/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, giảm -0,09 so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.067 đến $19.435 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.233, tăng 0.11%.Các đồng có mức tăng mạnh trên thị trường gồm APT, VIDT, và SUN, tăng lần lượt 603%, 49%, và 14%.Các tin mới trong ngày:With Bitcoin and Stocks Flat, Rally in DeFi Tokens Gets Notice The cryptocurrency market was mixed on Wednesday: While prices for top assets bitcoin and ether were unusually stable given their volatile history, tokens from decentralized finance (DeFi) took the spotlight.Crypto hacks are set to hit all-time highs in 2022, analyst explains South Africa Classifies Crypto Assets as Financial Products Persistence’s Liquid Staking Protocol pSTAKE Teams Up With Anchorage Digital First Mover Americas: Bitcoin, Ether Slip as UK Inflation Hits 40-Year High Terra Developers Unveil 4-Year Plan to Revive LUNA Ecosystem Terra developers floated a new proposal earlier this week as they look to revive the once-mighty ecosystem even as its controversial co-founder remains wanted by authorities.Brazil’s Largest Digital Lender Nubank to Roll Out Own Token to 70M Users in 2023 Bitcoin Stuck in a Rut as BofA Survey Reveals 'Long Dollar\" is Most Favored Trade How Crypto Might Shake Up England’s Ancient Property Laws Chuyển động thị trường:LUNA: $2.4495 (-3.22%)ETH: $1296.75 (-0.21%)BNB: $273.4 (+0.40%)XRP: $0.4613 (-0.56%)ADA: $0.3578 (-1.13%)SOL: $29.76 (-1.00%)DOGE: $0.06075 (+2.81%)MATIC: $0.8778 (+3.80%)DOT: $6.22 (+1.30%)TRX: $0.06252 (+1.18%)Top tăng giá trên Binance:APT/BUSD (+603%)VIDT/BUSD (+49%)SUN/BUSD (+14%)   ",
+            "date_created": "2022-10-20 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7243135"
+        },
+        {
+            "id": 7242579,
+            "title": "Bản tin cập nhật thị trường của Binance (19/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, giảm -0,28% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.067 đến $19.443 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.273, giảm -0.50%.Các đồng có mức tăng mạnh trên thị trường gồm APT, VIDT, và BAL, tăng lần lượt 681%, 32%, và 11%.Các tin mới trong ngày:First Mover Americas: Bitcoin, Ether Slip as UK Inflation Hits 40-Year High Terra Developers Unveil 4-Year Plan to Revive LUNA Ecosystem Terra developers floated a new proposal earlier this week as they look to revive the once-mighty ecosystem even as its controversial co-founder remains wanted by authorities.Brazil’s Largest Digital Lender Nubank to Roll Out Own Token to 70M Users in 2023 Bitcoin Stuck in a Rut as BofA Survey Reveals 'Long Dollar\" is Most Favored Trade How Crypto Might Shake Up England’s Ancient Property Laws Chuyển động thị trường:LUNA: $2.4417 (-3.08%)ETH: $1305 (-0.17%)BNB: $273.3 (+0.44%)XRP: $0.4581 (-2.01%)ADA: $0.358 (-1.86%)SOL: $29.99 (-1.06%)DOGE: $0.05912 (+0.44%)MATIC: $0.873 (+2.15%)DOT: $6.24 (+1.63%)TRX: $0.06263 (+0.10%)Top tăng giá trên Binance:APT/BUSD (+681%)VIDT/BUSD (+32%)BAL/BUSD (+11%)   ",
+            "date_created": "2022-10-19 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7242579"
+        },
+        {
+            "id": 7242576,
+            "title": "Bản tin cập nhật thị trường của Binance (19/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, giảm -0,90% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.092 đến $19.682 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.202, giảm -1.63%.Các đồng có mức tăng mạnh trên thị trường gồm APT, JST, và SUN, tăng lần lượt 710%, 12%, và 7%.Các tin mới trong ngày:Terra Co-Founder Do Kwon Continues to Deny Being on the Run EU Countries Must Be Ready to Block Crypto Mining, Commission Says People Buy the Wrong APT Token Before Aptos Listing, Apricot Finance Soars 70% Meta Follows Blockchain Firms in Joining Cryptographic Privacy Group MPC Alliance OpenSea Ventures Among Backers for $7M Round for Crypto Security Startup First Mover Americas: Bitcoin Holding Up at $19.5K Despite Bearish Conditions NFTs in Motion: Driving the Entertainment Industry Into a New Era FCA's Crypto AML Compliance Chief Steps Down Growing Popularity of Cash-Margined Bitcoin Futures Suggests That Crypto 'Liquidation Cascades' Might Become Rare Web3 Infrastructure Firm ChainSafe Raises $18.75M Series A DappRadar Says Decentraland has 650 Daily Active Users Chuyển động thị trường:LUNA: $2.4625 (-2.35%)ETH: $1299.79 (-1.55%)BNB: $271.3 (-0.33%)XRP: $0.4574 (-3.32%)ADA: $0.3571 (-2.83%)SOL: $29.99 (-1.93%)DOGE: $0.05922 (-0.13%)MATIC: $0.8596 (-0.26%)DOT: $6.12 (-0.49%)TRX: $0.06277 (+0.63%)Top tăng giá trên Binance:APT/BUSD (+710%)JST/BUSD (+12%)SUN/BUSD (+7%)   ",
+            "date_created": "2022-10-19 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7242576"
+        },
+        {
+            "id": 7242567,
+            "title": "Bản tin cập nhật thị trường của Binance (18/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, giảm -0,85% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.092 đến $19.708 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.218, giảm -1.60%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, CFX, và ANKR, tăng lần lượt 29%, 26%, và 17%.Các tin mới trong ngày:Terra Co-Founder Do Kwon Continues to Deny Being on the Run EU Countries Must Be Ready to Block Crypto Mining, Commission Says People Buy the Wrong APT Token Before Aptos Listing, Apricot Finance Soars 70% Meta Follows Blockchain Firms in Joining Cryptographic Privacy Group MPC Alliance OpenSea Ventures Among Backers for $7M Round for Crypto Security Startup First Mover Americas: Bitcoin Holding Up at $19.5K Despite Bearish Conditions NFTs in Motion: Driving the Entertainment Industry Into a New Era FCA's Crypto AML Compliance Chief Steps Down Growing Popularity of Cash-Margined Bitcoin Futures Suggests That Crypto 'Liquidation Cascades' Might Become Rare Web3 Infrastructure Firm ChainSafe Raises $18.75M Series A DappRadar Says Decentraland has 650 Daily Active Users New Blockchain Aptos Unveils Controversial Tokenomics, APT Incentive Plans 1inch Network Burned 189 ETH Tokens Last Week Pancakeswap Burns 6,814,867 CAKE Tokens This Week Chuyển động thị trường:LUNA: $2.5328 (-3.45%)ETH: $1300.41 (-1.92%)BNB: $272.2 (-0.98%)XRP: $0.4643 (-1.86%)ADA: $0.3622 (-2.27%)SOL: $30.1 (-2.30%)DOGE: $0.05911 (-0.81%)MATIC: $0.8466 (+1.51%)DOT: $6.15 (-1.13%)TRX: $0.06183 (-1.62%)Top tăng giá trên Binance:VIB/BUSD (+29%)CFX/BUSD (+26%)ANKR/BUSD (+17%)   ",
+            "date_created": "2022-10-19 03:00:07",
+            "url": "https://www.binance.com/vi/news/flash/7242567"
+        },
+        {
+            "id": 7242556,
+            "title": "Bản tin cập nhật thị trường của Binance (18/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, giảm -0,49% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.280 đến $19.708 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.363, giảm -0.95%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, PHA, và ANKR, tăng lần lượt 43%, 36%, và 15%.Các tin mới trong ngày:Terra Co-Founder Do Kwon Continues to Deny Being on the Run EU Countries Must Be Ready to Block Crypto Mining, Commission Says People Buy the Wrong APT Token Before Aptos Listing, Apricot Finance Soars 70% Meta Follows Blockchain Firms in Joining Cryptographic Privacy Group MPC Alliance OpenSea Ventures Among Backers for $7M Round for Crypto Security Startup First Mover Americas: Bitcoin Holding Up at $19.5K Despite Bearish Conditions NFTs in Motion: Driving the Entertainment Industry Into a New Era FCA's Crypto AML Compliance Chief Steps Down Growing Popularity of Cash-Margined Bitcoin Futures Suggests That Crypto 'Liquidation Cascades' Might Become Rare Web3 Infrastructure Firm ChainSafe Raises $18.75M Series A DappRadar Says Decentraland has 650 Daily Active Users New Blockchain Aptos Unveils Controversial Tokenomics, APT Incentive Plans 1inch Network Burned 189 ETH Tokens Last Week Pancakeswap Burns 6,814,867 CAKE Tokens This Week Chuyển động thị trường:LUNA: $2.5189 (-3.81%)ETH: $1307.26 (-1.69%)BNB: $272.1 (-0.77%)XRP: $0.4672 (-2.18%)ADA: $0.3649 (-2.07%)SOL: $30.31 (-2.10%)DOGE: $0.05888 (-1.72%)MATIC: $0.8549 (+2.08%)DOT: $6.14 (-1.44%)TRX: $0.06257 (+0.51%)Top tăng giá trên Binance:VIB/BUSD (+43%)PHA/BUSD (+36%)ANKR/BUSD (+15%)   ",
+            "date_created": "2022-10-18 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7242556"
+        },
+        {
+            "id": 7240450,
+            "title": "Bản tin cập nhật thị trường của Binance (18/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 1,08% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.250 đến $19.708 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.512, tăng 1.30%.Các đồng có mức tăng mạnh trên thị trường gồm VIB, PROS, và PHA, tăng lần lượt 67%, 37%, và 30%.Các tin mới trong ngày:1inch Network Burned 189 ETH Tokens Last Week Pancakeswap Burns 6,814,867 CAKE Tokens This Week Ripple Begins Testing XRP Ledger Sidechain That’s Compatible With Ethereum Smart Contracts First Mover Americas: Technical Signs Flashing Green for Bitcoin and Ether, Quant Network's Token Surges 14% Fan token firm Chiliz grows staff by 70% despite crypto winter Indian E-Commerce Giant Flipkart Introduces Metaverse Shopping Binance Launches CoinMarketCap (CMC) Index Series Tracking Top 10 Cryptos Mastercard Joins Hands With Paxos to Enhance Crypto Trading Services: Report CNBC đưa tin vào hôm thứ Hai, công ty thanh toán khổng lồ Mastercard (MA) đã hợp tác với nền tảng giao dịch tiền mã hoá Paxos để cung cấp một chương trình giúp các tổ chức tài chính cung cấp giao dịch tiền mã hoá.Chuyển động thị trường:LUNA: $2.4667 (-5.21%)ETH: $1318.95 (+0.75%)BNB: $272.1 (+0.26%)XRP: $0.4717 (+1.11%)ADA: $0.3655 (-0.57%)SOL: $30.41 (+0.76%)DOGE: $0.05911 (+0.03%)MATIC: $0.86 (+6.02%)DOT: $6.14 (-0.49%)TRX: $0.06235 (-0.08%)Top tăng giá trên Binance:VIB/BUSD (+67%)PROS/BUSD (+37%)PHA/BUSD (+30%)   ",
+            "date_created": "2022-10-18 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7240450"
+        },
+        {
+            "id": 7240505,
+            "title": "1inch Network đã đốt 189 token ETH vào tuần trước",
+            "content": "1inch Network đã cập nhật token được đốt cho cộng đồng của mình thông qua Twitter vào thứ Hai. Đội ngũ cho biết đã đốt 281.400 đô la Ether (189,2 ETH) vào tuần trước. 1inch Network đã đốt tổng cộng hơn 125,3 triệu USD tiền Ether (39,3 nghìn ETH).1inch Network là một giao thức tổng hợp DEX trên nhiều chuỗi, bao gồm Ethereum, BSC, Polygon, Optimism và Arbitrum.  ",
+            "date_created": "2022-10-18 13:16:48",
+            "url": "https://www.binance.com/vi/news/flash/7240505"
+        },
+        {
+            "id": 7240508,
+            "title": "Pancakeswap đã đốt 6.814.867 token CAKE trong tuần này",
+            "content": "Pancakeswap thông báo với cộng đồng của mình qua Twitter vào thứ Hai rằng họ đã đốt 6.814.867 token CAKE (trị giá 31 triệu đô) trong tuần này. Sàn giao dịch phi tập trung đã tạo ra 1 triệu đô (221 nghìn token CAKE) phí giao dịch cho thị trường Hoán đổi và Thường xuyên và 10 nghìn đô (2 nghìn token CAKE) từ thị trường NFT. Thị trường Dự đoán và Xổ số tạo ra tương ứng 53 nghìn CAKE (224 nghìn đô) và 39 nghìn CAKE (179 nghìn đô).PancakeSwap là một sàn giao dịch phi tập trung dựa trên BNB chain (DEX) với mô hình tạo lập thị trường tự động (AMM) giúp hoán đổi token BEP-20.  ",
+            "date_created": "2022-10-18 13:06:36",
+            "url": "https://www.binance.com/vi/news/flash/7240508"
+        },
+        {
+            "id": 7239985,
+            "title": "Aptos Mainnet “Aptos Autumn” chính thức ra mắt sau hơn 4 năm triển khai",
+            "content": "Aptos mainnet “Aptos Autumn” đã ra mắt chính thức. Mainnet này được viết dựa trên ngôn ngữ Move và hợp đồng thông minh Move có thể được nâng cấp và hỗ trợ sự phát triển an toàn của tất cả các ứng dụng Aptos. Blockchain Aptos hiện đang sử dụng phiên bản AptosBFT mới nhất (phiên bản 4).Vào cuối ngày 17 tháng 10, Aptos Labs vui mừng thông báo đến người dùng mainnet “Aptos Autumn” đã được ra mắt chính thức sau hơn 4 năm phát triển.Mainnet đã ra mắt. Https://t.co/wZajVZMa5Q- Aptos (@AptosLabs) ngày 17 tháng 10 năm 2022Đây là bước đầu tiên trong hành trình dài hướng tới việc tạo ra quyền truy cập công bằng và toàn cầu vào các ứng dụng phi tập trung cho hàng tỷ người thông qua một blockchain an toàn, có thể mở rộng và nâng cấp.Mainnet được viết dựa trên ngôn ngữ và hợp đồng thông minh Move có thể được nâng cấp và hỗ trợ sự phát triển an toàn của tất cả các ứng dụng Aptos. Move và Aptos tạo ra một môi trường độc đáo, thân thiện với nhà phát triển để xây dựng một cách liền mạch và tạo ra một môi trường cho sự đổi mới, sáng tạo.Blockchain Aptos hiện tại sử dụng phiên bản AptosBFT mới nhất (phiên bản 4) và quá trình phát triển trên AptosBFT phiên bản 5 đã được tiến hành cũng như phát hành trong một bản nâng cấp trong tương lai.Aptos, một dự án chuỗi công khai được thành lập bởi các thành viên của nhóm dự án DIEM, đã hoàn thành khoản tài trợ 150 triệu đô la, với mức định giá 2,75 tỷ đô la, do FTX Ventures và Jump Crypto dẫn đầu, và các nhà đầu tư khác bao gồm Griffin Gaming Partners, Franklin Templeton, Circle Ventures và Superscrypt, v.v.",
+            "date_created": "2022-10-18 08:23:00",
+            "url": "https://www.binance.com/vi/news/flash/7239985"
+        },
+        {
+            "id": 7239967,
+            "title": "Bản tin cập nhật thị trường của Binance (17/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 1,00% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.105 đến $19.678 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.529, tăng 0.78%.Các đồng có mức tăng mạnh trên thị trường gồm MDX, POLYX, và PHA, tăng lần lượt 32%, 31%, và 23%.Các tin mới trong ngày:Ripple Begins Testing XRP Ledger Sidechain That’s Compatible With Ethereum Smart Contracts First Mover Americas: Technical Signs Flashing Green for Bitcoin and Ether, Quant Network's Token Surges 14% Fan token firm Chiliz grows staff by 70% despite crypto winter Indian E-Commerce Giant Flipkart Introduces Metaverse Shopping Binance Launches CoinMarketCap (CMC) Index Series Tracking Top 10 Cryptos Mastercard Joins Hands With Paxos to Enhance Crypto Trading Services: Report Payments giant Mastercard (MA) has partnered with crypto trading platform Paxos to offer a program that will help financial institutions offer cryptocurrency trading, CNBC reported on Monday.Bitcoin Fails to Produce 1 Block for Over an Hour Read Binance News and Play WODL to Share $25,000 in NEBL Token Vouchers, With Additional $5,000 in NEBL Welcome Gift for New Users! Chuyển động thị trường:LUNA: $2.6233 (-0.28%)ETH: $1325.63 (+1.25%)BNB: $274.8 (+0.51%)XRP: $0.473 (-1.79%)ADA: $0.3707 (-0.78%)SOL: $30.81 (+1.32%)DOGE: $0.05953 (+0.35%)MATIC: $0.834 (+3.21%)DOT: $6.22 (-0.32%)TRX: $0.06284 (+1.78%)Top tăng giá trên Binance:MDX/BUSD (+32%)POLYX/BUSD (+31%)PHA/BUSD (+23%)   ",
+            "date_created": "2022-10-18 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7239967"
+        },
+        {
+            "id": 7239965,
+            "title": "Bản tin cập nhật thị trường của Binance (17/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,93 nghìn tỷ đô, tăng 1,90% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.105 đến $19.678 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.546, tăng 2.01%.Các đồng có mức tăng mạnh trên thị trường gồm POLYX, TORN, và MDX, tăng lần lượt 50%, 44%, và 23%.Các tin mới trong ngày:Ripple Begins Testing XRP Ledger Sidechain That’s Compatible With Ethereum Smart Contracts First Mover Americas: Technical Signs Flashing Green for Bitcoin and Ether, Quant Network's Token Surges 14% Fan token firm Chiliz grows staff by 70% despite crypto winter Indian E-Commerce Giant Flipkart Introduces Metaverse Shopping Binance Launches CoinMarketCap (CMC) Index Series Tracking Top 10 Cryptos Mastercard Joins Hands With Paxos to Enhance Crypto Trading Services: Report Payments giant Mastercard (MA) has partnered with crypto trading platform Paxos to offer a program that will help financial institutions offer cryptocurrency trading, CNBC reported on Monday.Bitcoin Fails to Produce 1 Block for Over an Hour Read Binance News and Play WODL to Share $25,000 in NEBL Token Vouchers, With Additional $5,000 in NEBL Welcome Gift for New Users! Chuyển động thị trường:LUNA: $2.6188 (-0.69%)ETH: $1329.67 (+3.32%)BNB: $274.2 (+1.33%)XRP: $0.4776 (-0.77%)ADA: $0.3725 (+1.75%)SOL: $30.95 (+3.24%)DOGE: $0.05993 (+1.75%)MATIC: $0.8375 (+5.08%)DOT: $6.23 (+0.97%)TRX: $0.06225 (+1.20%)Top tăng giá trên Binance:POLYX/BUSD (+50%)TORN/BUSD (+44%)MDX/BUSD (+23%)   ",
+            "date_created": "2022-10-17 23:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7239965"
+        },
+        {
+            "id": 7239050,
+            "title": "Bản tin cập nhật thị trường của Binance (17/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 0,45% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $19.088 đến $19.427 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.266, tăng 0.53%.Các đồng có mức tăng mạnh trên thị trường gồm CVP, POLYX, và REEF, tăng lần lượt 68%, 42%, và 13%.Các tin mới trong ngày:Read Binance News and Play WODL to Share $25,000 in NEBL Token Vouchers, With Additional $5,000 in NEBL Welcome Gift for New Users! Chuyển động thị trường:LUNA: $2.6042 (-2.48%)ETH: $1309.38 (+1.59%)BNB: $271.4 (+0.18%)XRP: $0.4662 (-4.00%)ADA: $0.3675 (-0.46%)SOL: $30.19 (+0.80%)DOGE: $0.05908 (-0.19%)MATIC: $0.8112 (+1.55%)DOT: $6.17 (+0.00%)TRX: $0.06236 (+0.84%)Top tăng giá trên Binance:CVP/BUSD (+68%)POLYX/BUSD (+42%)REEF/BUSD (+13%)   ",
+            "date_created": "2022-10-17 16:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7239050"
+        },
+        {
+            "id": 7239068,
+            "title": "Ví nền tảng NFT LiveArtX bị đánh cắp và một số khoản dự trữ NFT được bán",
+            "content": "NFT LiveArtX đã tuyên bố trên nền tảng social của mình rằng ví chính thức đã bị đánh cắp và đội ngũ đang cố gắng hết sức để giải quyết và sẽ cập nhật sớm cho cộng đồng. Giá sàn của chuỗi Meta-morphic: Sevenasureures NFT do LiveArtX phát hành đã giảm xuống còn 0,2 ETH, giảm 84% trong 24 giờ.Vào ngày 17 tháng 10, nền tảng NFT LiveArtX cho biết rằng ví chính thức của họ đã bị đánh cắp và một số NFT dự trữ đã bị bán. Đội ngũ đang cố gắng hết sức để giải quyết và sẽ cập nhật sớm cho cộng đồng của mình.Chúng tôi đang cố gắng thực hiện tất cả những gì có thể để giải quyết vấn đề với ví bị xâm phạm và sẽ cập nhật cho cộng đồng của mình.- LiveArt (@LiveArtX) ngày 16 tháng 10 năm 2022Hiện tại, theo thông tin trên NFTGo.io, giá sàn NFT của chuỗi Meta-morphic: Sevenasure do nền tảng NFT LiveArtX phát hành đã giảm xuống còn 0,2ETH, giảm 83,87% trong 24 giờ qua. Ngoài ra, lượng giao dịch của chuỗi này tăng 597,76% trong 24 giờ qua.Nguồn: NFTGo.ioTrước đó, LiveArtX đã nhận được hơn 4,5 triệu đô la đầu tư chiến lược do Animoca Brands, BNB Chain Fund và KuCoin dẫn đầu. Vào tháng 3, công ty đã tung ra token ART. ",
+            "date_created": "2022-10-17 13:47:41",
+            "url": "https://www.binance.com/vi/news/flash/7239068"
+        },
+        {
+            "id": 7239059,
+            "title": "Hàn Quốc sẽ cung cấp ID kỹ thuật số dựa trên blockchain cho người dân vào năm 2024",
+            "content": "Vào năm 2024, Hàn Quốc có kế hoạch cung cấp danh tính (ID) kỹ thuật số được bảo mật bằng blockchain cho những công dân sử dụng điện thoại thông minh khi nước này tiếp cận với nhóm dân cư hiểu biết về công nghệ để thúc đẩy tăng trưởng kinh tế. Mục tiêu của kế hoạch là tìm cách thuyết phục được 45 triệu dân áp dụng trong vòng hai năm.Theo Bloomberg, Hàn Quốc có kế hoạch triển khai danh tính kỹ thuật số được bảo mật bằng blockchain cho công dân sử dụng điện thoại thông minh vào năm 2024 để đơn giản hóa việc xác minh trực tuyến mà không cần chụp ảnh hoặc mã. Xác minh được gửi qua tin nhắn văn bản và tìm cách thuyết phục 45 triệu công dân sử dụng trong vòng hai năm.Theo kế hoạch, chính phủ sẽ không thể truy cập thông tin được lưu trữ trên điện thoại di động của một cá nhân, bao gồm thông tin chi tiết về ID kỹ thuật số của ai được sử dụng, cách thức và vị trí sử dụng, vì hệ thống sẽ hoàn toàn dựa vào danh tính phi tập trung.Hàn Quốc sẽ cung cấp ID kỹ thuật số dựa trên blockchain cho người dân vào năm 2024 Điện thoại thông minh cấy ghép ID là một trong những công nghệ mới nổi mới nhất làm nền tảng cho nền kinh tế kỹ thuật số đã mở rộng khi ngày càng có nhiều người làm việc tại nhà, và thực hiện thanh toán không dùng tiền mặt.Người đứng đầu Cơ quan quản lý kỹ thuật số Hàn Quốc cho biết thông qua chương trình này, Hàn Quốc dự kiến sẽ thu được ít nhất 42 tỷ USD giá trị kinh tế trong vòng một thập kỷ, tương đương 3% GDP của Hàn Quốc.",
+            "date_created": "2022-10-17 09:19:11",
+            "url": "https://www.binance.com/vi/news/flash/7239059"
+        },
+        {
+            "id": 7238626,
+            "title": "Bản tin cập nhật thị trường của Binance (16/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 0,88% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.978 đến $19.395 trong 24 giờ qua. Tính đến 08:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.373, tăng 1.43%.Các đồng có mức tăng mạnh trên thị trường gồm CVP, REQ, và PERP, tăng lần lượt 88%, 25%, và 24%.Chuyển động thị trường:LUNA: $2.6306 (-4.25%)ETH: $1308.67 (+2.05%)BNB: $273.5 (+1.33%)XRP: $0.4816 (-0.54%)ADA: $0.3735 (+1.83%)SOL: $30.41 (+1.88%)DOGE: $0.05938 (+0.73%)MATIC: $0.8077 (+1.36%)DOT: $6.24 (+2.80%)TRX: $0.06174 (-1.17%)Top tăng giá trên Binance:CVP/BUSD (+88%)REQ/BUSD (+25%)PERP/BUSD (+24%)   ",
+            "date_created": "2022-10-17 03:00:00",
+            "url": "https://www.binance.com/vi/news/flash/7238626"
+        },
+        {
+            "id": 7238374,
+            "title": "Bản tin cập nhật thị trường của Binance (16/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, giảm -0,08% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.978 đến $19.196 trong 24 giờ qua. Tính đến 04:00 PM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.161, tăng 0.19%.Các đồng có mức tăng mạnh trên thị trường gồm CVP, PERP, và BURGER, tăng lần lượt 93%, 57%, và 26%.Chuyển động thị trường:LUNA: $2.6387 (-5.73%)ETH: $1286.93 (+0.08%)BNB: $270.6 (-0.15%)XRP: $0.4812 (-1.23%)ADA: $0.3662 (-0.03%)SOL: $29.98 (+0.23%)DOGE: $0.0589 (-0.42%)MATIC: $0.7969 (-0.40%)DOT: $6.17 (+1.65%)TRX: $0.06151 (-1.03%)Top tăng giá trên Binance:CVP/BUSD (+93%)PERP/BUSD (+57%)BURGER/BUSD (+26%)   ",
+            "date_created": "2022-10-16 23:00:38",
+            "url": "https://www.binance.com/vi/news/flash/7238374"
+        },
+        {
+            "id": 7238373,
+            "title": "Bản tin cập nhật thị trường của Binance (16/10/2022)",
+            "content": "Theo dữ liệu của CoinMarketCap, tổng vốn hóa thị trường crypto hiện ở ngưỡng 0,92 nghìn tỷ đô, tăng 0,56% so với ngày hôm qua.Bitcoin (BTC) hiện đang được giao dịch trong khoảng $18.978 đến $19.200 trong 24 giờ qua. Tính đến 09:00 AM (UTC) ngày hôm nay, BTC đang giao dịch ở mức $19.162, tăng 0.48%.Các đồng có mức tăng mạnh trên thị trường gồm LTO, BURGER, và REQ, tăng lần lượt 126%, 72%, và 68%.Chuyển động thị trường:LUNA: $2.6688 (-5.20%)ETH: $1288.77 (+0.67%)BNB: $270.9 (+0.63%)XRP: $0.4857 (+1.31%)ADA: $0.3691 (+1.71%)SOL: $29.95 (+0.64%)DOGE: $0.05919 (+1.79%)MATIC: $0.7984 (+0.90%)DOT: $6.17 (+2.15%)TRX: $0.06184 (-1.84%)Top tăng giá trên Binance:LTO/BUSD (+126%)BURGER/BUSD (+72%)REQ/BUSD (+68%)   ",
+            "date_created": "2022-10-16 16:00:57",
+            "url": "https://www.binance.com/vi/news/flash/7238373"
+        }
+    ]
 }

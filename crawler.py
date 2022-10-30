@@ -41,8 +41,8 @@ while True:
                 obj["content"] = item["body"]
                 obj["date_created"] = str(datetime.fromtimestamp((int(item["createTime"])) / 1000))
                 obj["url"] = news_url + str(item["id"])
-                # r = requests.post(post_url, data=obj)
-                # print(r.status_code)
+                r = requests.post(post_url, data=obj)
+                print(r.status_code)
                 list_news.append(obj)
     data_write["savedId"] = saved_id
     data_write["news"] = list_news
